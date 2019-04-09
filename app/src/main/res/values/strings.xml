@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Android App Design</string>
+    <string name="type_and_run">Type and Run</string>
+    <string name="make">Make:</string>
+    <string name="year">Year:</string>
+    <string name="color">Color:</string>
+    <string name="purchase_price">Purchase price (&#163;):</string>
+    <string name="engine_size">Engine size (litre):</string>
 </resources>
